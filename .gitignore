@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+logs_train/
+!/logs_train/
+*.tar.gz
+dataloader/
+*.jpg
+data/
+*.pth
+
