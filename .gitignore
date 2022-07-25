@@ -6,4 +6,7 @@ dataloader/
 *.jpg
 data/
 *.pth
-
+*.xml
+dataset/
+!/datasets/
+!/logs/
